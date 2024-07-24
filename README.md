@@ -1,5 +1,4 @@
-# AdUARX
-![Logo](images/logo.png)
+<img src="images/logo.png" alt="AdUARX Logo" width="300"/>
 
 ## Project Overview
 
