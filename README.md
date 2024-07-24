@@ -35,6 +35,10 @@ This project was developed by:
 - Marie Bernadette M. Gerali
 - Rovic Jake A. Hiwatig
 
+## Awards and Recognitions
+
+AdUARX was recognized as one of the best research projects during the Computer Science Research Colloquium at Adamson University.
+
 ## Source Code Availability
 
 Due to intellectual property considerations, the source code for AdUARX is not publicly available. However, the documentation provided here includes detailed insights into the project’s development process, technologies used, and the application's features. For further inquiries or collaboration opportunities, please contact the team members via their GitHub or LinkedIn profiles.
