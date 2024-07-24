@@ -10,4 +10,4 @@ The project integrates the A* algorithm for pathfinding, offering a comparative 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![ArCORE](https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=arcorelogo&logoColor=black)
+![ArCORE](https://custom-icon-badges.demolab.com/badge/-ARCore-plum?style=for-the-badge&logo=arcorelogo&logoColor=black)
