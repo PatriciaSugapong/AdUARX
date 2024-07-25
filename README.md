@@ -24,7 +24,15 @@ The project integrates the A* algorithm for pathfinding, offering a comparative 
 
 ## Screenshots
 
-## Demonstration
+<div style="display: flex; justify-content: center;">
+  <img src="screenshots/screenshot(6).png" height="300" style="margin: 0 10px;"/>
+  <img src="screenshots/screenshot(7).png" height="300" style="margin: 0 10px;"/>
+  <img src="screenshots/screenshot(3).png" height="300" style="margin: 0 10px;"/>
+  <img src="screenshots/screenshot(5).png" height="300" style="margin: 0 10px;"/>
+  <img src="screenshots/screenshot(2).png" height="300" style="margin: 0 10px;"/>
+  <img src="screenshots/screenshot(4).png" height="300" style="margin: 0 10px;"/>
+  <img src="screenshots/screenshot(1).png" height="300" style="margin: 0 10px;"/>
+</div>
 
 ## Team
 
