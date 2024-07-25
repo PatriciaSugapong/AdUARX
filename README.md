@@ -16,7 +16,7 @@ The project integrates the A* algorithm for pathfinding, offering a comparative 
 
 ## Technologies Used
 
-- A* for pathfinding with a comparative analysis to Dijkstra's algorithm.
+- A* algorithm for pathfinding
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![ArCORE](https://custom-icon-badges.demolab.com/badge/-ARCore-plum?style=for-the-badge&logo=arcorelogo&logoColor=black)
 - ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
