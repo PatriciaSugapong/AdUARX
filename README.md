@@ -24,15 +24,16 @@ The project integrates the A* algorithm for pathfinding, offering a comparative 
 
 ## Screenshots
 
-<div style="display: flex; justify-content: center;">
-  <img src="screenshots/screenshot(6).jpg" height="300" style="margin: 0 10px;"/>
-  <img src="screenshots/screenshot(7).jpg" height="300" style="margin: 0 10px;"/>
-  <img src="screenshots/screenshot(3).jpg" height="300" style="margin: 0 10px;"/>
-  <img src="screenshots/screenshot(5).jpg" height="300" style="margin: 0 10px;"/>
-  <img src="screenshots/screenshot(2).jpg" height="300" style="margin: 0 10px;"/>
-  <img src="screenshots/screenshot(4).jpg" height="300" style="margin: 0 10px;"/>
-  <img src="screenshots/screenshot(1).jpg" height="300" style="margin: 0 10px;"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="screenshots/screenshot(6).jpg" height="300" style="margin: 5px;"/>
+  <img src="screenshots/screenshot(7).jpg" height="300" style="margin: 5px;"/>
+  <img src="screenshots/screenshot(3).jpg" height="300" style="margin: 5px;"/>
+  <img src="screenshots/screenshot(5).jpg" height="300" style="margin: 5px;"/>
+  <img src="screenshots/screenshot(2).jpg" height="300" style="margin: 5px;"/>
+  <img src="screenshots/screenshot(4).jpg" height="300" style="margin: 5px;"/>
+  <img src="screenshots/screenshot(1).jpg" height="300" style="margin: 5px;"/>
 </div>
+
 
 ## Team
 
