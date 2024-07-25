@@ -32,8 +32,8 @@ This project was developed by:
 
 - [Patricia Anne E. Sugapong](https://github.com/PatriciaSugapong)
 - [Hyacinth Ashley G. Radovan](https://github.com/HyacinthAshleyRadovan)
-- Marie Bernadette M. Gerali
-- Rovic Jake A. Hiwatig
+- [Marie Bernadette M. Gerali](https://github.com/MarieGerali)
+- [Rovic Jake A. Hiwatig](https://github.com/rovichwtg)
 
 ## Awards and Recognitions
 
